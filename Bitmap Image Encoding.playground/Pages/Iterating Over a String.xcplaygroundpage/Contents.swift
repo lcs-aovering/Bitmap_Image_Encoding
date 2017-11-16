@@ -32,7 +32,8 @@ for character in encodedBitmap {
     print(character)
 }
 
-// I notice that...
+// I notice that not only does the sequnce and amount of '0's and '1's change, but the amount of times looped changes, never going more than 20 times.
+// The loop is for character in
 /*:
  Now, **remember to commit and push your work**.
  */
