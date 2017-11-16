@@ -15,7 +15,7 @@ import PlaygroundSupport
  */
 let encodedBitmap = getEncodedBitmapString()
 
-// I notice that...
+// I notice that every time the command is run, the sequence of only '1's & '0's changes every time.
 /*:
  Now, **remember to commit and push your work**.
  */
